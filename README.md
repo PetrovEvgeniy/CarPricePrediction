@@ -1,1 +1,1 @@
-Deel learning model for car price prediction
+Linear Regression for Predicting Price of second hand Cars using TensorFlow 
